@@ -1,3 +1,3 @@
-alert(document.domain)
-alert("Hello! I am an alert box!!");
-console.log('hi this is a test')
+alert("CACHE POISON COFIRM!!");
+alert(document.domain);
+console.log('hi this is a test');
